@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Achados E Perdidos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtFrase">Encontre documentos perdidos de forma simples e rápida.</string>
+    <string name="txtRodape">2015 STG - Todos os direitos reservados.</string>
+</resources>
